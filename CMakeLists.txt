@@ -9,4 +9,4 @@ set(PROJECT_SOURCES main.cpp SeparateChainingHashMap.cpp OpenAddressingHashMap.c
 
 add_executable(HashMapTask main.cpp SeparateChainingHashMap.cpp OpenAddressingHashMap.cpp Minister.cpp LinkedList.cpp)
 
-add_executable(rabinKarpAlgorithmTask rabinKarpAlgorithm.cpp)
+add_executable(rabinKarpAlgorithmTask RabinKarpAlgorithm.cpp)
